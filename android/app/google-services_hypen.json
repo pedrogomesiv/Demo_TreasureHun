@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "706324956605",
+    "firebase_url": "https://treasurehun-8a6d7.firebaseio.com",
+    "project_id": "treasurehun-8a6d7",
+    "storage_bucket": "treasurehun-8a6d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706324956605:android:56b86e379a5c401480bed4",
+        "android_client_info": {
+          "package_name": "com.treasurehun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706324956605-3ak8s274r6ticaqs84iuncddc4gjeqre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treasurehun",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "706324956605-p916ordgql1r95ktegu4qn5d4bjf8sni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_mcnzv8ruNKXboLnYLoCsO51F_vHlGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706324956605-p916ordgql1r95ktegu4qn5d4bjf8sni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "706324956605-56g7jlran81n58bmo3m0updthar5bmib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.treasurehun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

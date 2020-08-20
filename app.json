@@ -1,0 +1,29 @@
+// {
+//   "name": "treasurehun",
+//   "displayName": "treasurehun"
+// }
+{
+  "name": "treasurehun",
+  "displayName": "treasurehun",
+  
+  "expo":{
+    "description":"Find cash all over your city",
+    "slug":"treasurehun",
+    "privacy":"public",
+    "plataforms":"ios,android",
+    "oritation": "portrait",
+    "icon":"./images/imageedit_1_5111668963.png"
+
+  },
+
+  "ios":{
+    "supportTablet": true,
+    "bundleIdentifier":"com.treasurefam.treasurehun"
+
+  },
+
+"android": {
+  "package": "com.treasurefam.treasurehun",
+  "versionCode": 8
+  }
+}

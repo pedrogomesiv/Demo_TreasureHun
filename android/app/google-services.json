@@ -1,0 +1,183 @@
+{
+  "project_info": {
+    "project_number": "725969290085",
+    "firebase_url": "https://tresurelock.firebaseio.com",
+    "project_id": "tresurelock",
+    "storage_bucket": "tresurelock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725969290085:android:a1ae5fe9a524a109b9578c",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8LmK_0qT6tayL--17rz8C24X2HSoDLo"
+        },
+        {
+          "current_key": "AIzaSyB_q_NE9X0b6uVMHzLurdUH_9S4lqpjkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725969290085-dkfefoou5et926l2hlogg7hf4o2280rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725969290085:android:726e18b812daa9d3",
+        "android_client_info": {
+          "package_name": "com.destination.tresurelock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725969290085-59db2pr844trvn4qb021679flfi6h14u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.destination.tresurelock",
+            "certificate_hash": "5d6c32fa884b97d16668b9160c7b277c2aef0eeb"
+          }
+        },
+        {
+          "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8LmK_0qT6tayL--17rz8C24X2HSoDLo"
+        },
+        {
+          "current_key": "AIzaSyB_q_NE9X0b6uVMHzLurdUH_9S4lqpjkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725969290085-dkfefoou5et926l2hlogg7hf4o2280rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725969290085:android:059ac91437a8bacc",
+        "android_client_info": {
+          "package_name": "com.treasuerefam.TreasureHun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725969290085-sdh5vqjdlo3h1itru4efsp8abfqik18u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.treasuerefam.TreasureHun",
+            "certificate_hash": "5d6c32fa884b97d16668b9160c7b277c2aef0eeb"
+          }
+        },
+        {
+          "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8LmK_0qT6tayL--17rz8C24X2HSoDLo"
+        },
+        {
+          "current_key": "AIzaSyB_q_NE9X0b6uVMHzLurdUH_9S4lqpjkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725969290085-dkfefoou5et926l2hlogg7hf4o2280rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725969290085:android:85f94611099b5496b9578c",
+        "android_client_info": {
+          "package_name": "com.treasurehun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8LmK_0qT6tayL--17rz8C24X2HSoDLo"
+        },
+        {
+          "current_key": "AIzaSyB_q_NE9X0b6uVMHzLurdUH_9S4lqpjkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725969290085-vn58ob8ul3i3jl0j8gip3ovivkat36us.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725969290085-dkfefoou5et926l2hlogg7hf4o2280rq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AwesomeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

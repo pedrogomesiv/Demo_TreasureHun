@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>706324956605-56g7jlran81n58bmo3m0updthar5bmib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.706324956605-56g7jlran81n58bmo3m0updthar5bmib</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>706324956605-3ak8s274r6ticaqs84iuncddc4gjeqre.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBucwt6AuKm6Ys0lXA_4GNbNF7eKAlp5Aw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>706324956605</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.treasurehun</string>
+	<key>PROJECT_ID</key>
+	<string>treasurehun-8a6d7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>treasurehun-8a6d7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:706324956605:ios:909a1e3613d9328c80bed4</string>
+	<key>DATABASE_URL</key>
+	<string>https://treasurehun-8a6d7.firebaseio.com</string>
+</dict>
+</plist>

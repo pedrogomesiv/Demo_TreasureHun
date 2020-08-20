@@ -1,0 +1,16 @@
+export const appNameLogo = require('./AppNameLogo.png');
+export const claimMessageLogo = require('./claimMessageLogo.png');
+export const iWinYourPrize = require('./iWinYourPrize.png');
+export const messageFive = require('./messageFive.png');
+export const messageSix = require('./messageSix.png');
+export const messageFour = require('./messageFour.png');
+export const messageThree = require('./messageThree.png');
+export const messageTwo = require('./messageTwo.png');
+export const messageOne = require('./messageOne.png');
+export const scanBtn = require('./ScanBtn.png');
+export const home = require('./Home.png');
+export const qr = require('./Qr.png');
+export const info = require('./info.png');
+export const circle = require('./circle.png');
+export const getLocation = require('./getLocation.png');
+export const currentLocation = require('./currentLocation.png');
